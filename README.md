@@ -9,16 +9,18 @@
  - [Список софта]()
 
 ## Windows
- - [Список софта](https://bitbucket.org/murych/resources/src/49cb0746c52aa6e8176bbe2c4dfd1cbd958def95/windows/soft.md?at=master)
+ - [Список софта](windows/soft.md)
  - [Кастомизация интерфейса]()
- - [Кастомизация интерфейса Firefox](https://bitbucket.org/murych/resources/src/49cb0746c52aa6e8176bbe2c4dfd1cbd958def95/customizing/firefox.md?at=master)
+ - [Кастомизация интерфейса Firefox](customizing/firefox.md)
 
 ## Android
-- [Список софта](https://bitbucket.org/murych/resources/src/49cb0746c52aa6e8176bbe2c4dfd1cbd958def95/android/soft_android.md?at=master)
+- [Список софта](android/soft.md)
 
 ## Python
+ - [Средства разработки](python/ides.md)
+ - [Библиотеки](python/libraries.md)
  - [Обучающие ресурсы]()
  - [Github репозитории с материалами]()
 
 ## LaTeX
- - [Обзор редакторов для работы в LaTeX](https://bitbucket.org/murych/resources/src/49cb0746c52aa6e8176bbe2c4dfd1cbd958def95/latex/latex_editors.md?at=master) ([оригинальная статья](http://mydebianblog.blogspot.ru/2013/02/latex-editors-and-integrated-latex.html))
+ - [Обзор редакторов для работы в LaTeX](latex/latex_editors.md) ([оригинальная статья](http://mydebianblog.blogspot.ru/2013/02/latex-editors-and-integrated-latex.html))
