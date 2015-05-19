@@ -6,7 +6,7 @@
 
 -------
 ## Online
- - [Список софта]()
+ - [Список софта](web/soft,md)
 
 ## Windows
  - [Список софта](windows/soft.md)
