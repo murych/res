@@ -133,6 +133,8 @@
 - [Logon Changer](http://tweaks.com/software/tweakslogon/) - изменение изображения экрана входа в систему
 - [Dual Monitor Tools](http://dualmonitortool.sourceforge.net/) - пакет программ для работы с двумя мониторами
 - [WinSplit](http://download.cnet.com/WinSplit-Revolution/3000-2072_4-10971915.html) - тайлинг окон
+- [Launchy](http://www.launchy.net/) - запуск приложений
+	+ [Dash Theme](http://neiio.deviantart.com/art/Dash-Launchy-470792798)
 - Шрифты
 	+  [Anonymous Pro](http://www.marksimonson.com/fonts/view/anonymous-pro)
 	+  [Cuprum](http://www.fontsquirrel.com/fonts/cuprum)
