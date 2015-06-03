@@ -124,6 +124,7 @@
 -  [Oracle VM VirtualBox](https://www.virtualbox.org/) - виртуализация `os`
 -  [ShareX](https://getsharex.com/) - захват скриншотов
 -  [Universal USB Installer](http://www.pendrivelinux.com/universal-usb-installer-easy-as-1-2-3/) - создание загрузочных флешек на основе linux дистрибутивов
+-  [Windows USB/DVD Download Tool](http://wudt.codeplex.com/#) - создание загрузочных флешек на основе windows дистрибутивов
 
 ## Интерфейс
 - [Rocket Dock](http://rocketdock.com/) - док
