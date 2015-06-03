@@ -36,3 +36,4 @@
 - [YouTube Dark](https://userstyles.org/styles/92164/youtube-lights-out-a-dark-youtube-theme)
 - [Wikipedia Dark](https://userstyles.org/styles/47161/dark-wikipedia-rounded)
 - [Tumblr Dark](https://userstyles.org/styles/91636/tumblr-enjoy-the-dark-side)
+- [Instagram Dark](https://userstyles.org/styles/109374/best-dark-instagram-june-2015)
