@@ -1,5 +1,5 @@
 # Choco
-![](cmder.png)
+![](imgs/choco.png)
 
 ## Установка
  - Используя *Command Prompt* с правами администратора:
