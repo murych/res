@@ -8,3 +8,4 @@
 # Сборки
 - [Python(x,y)](https://code.google.com/p/pythonxy/) - готовая сборка `python` с библиотеками для научных вычислений и средами разработки
 - [WinPython](https://sourceforge.net/projects/winpython/?source=directory)
+- [Portable Python](http://portablepython.com/)

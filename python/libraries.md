@@ -12,3 +12,4 @@
 - [scipy](https://sourceforge.net/projects/scipy/) ``` sudo apt-get install python-scipy ```
 - [sympy](http://www.sympy.org/en/download.html) ``` pip install sympy ```
 - [wxPython](http://www.wxpython.org/) ``` sudo apt-get install python-wxgtk2.8 python-wxtools wx2.8-doc wx2.8-examples wx2.8-headers wx2.8-i18n ```
+- []()
