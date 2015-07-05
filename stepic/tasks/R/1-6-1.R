@@ -1,0 +1,1 @@
+boxplot(Ozone ~ Month, airquality)
