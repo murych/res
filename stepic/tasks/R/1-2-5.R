@@ -1,0 +1,1 @@
+print(sum(my_vector[my_vector > 10]))
