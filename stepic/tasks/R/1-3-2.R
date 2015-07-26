@@ -1,1 +1,0 @@
-print(df$mpg[df$cyl==4])

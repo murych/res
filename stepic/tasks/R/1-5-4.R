@@ -1,1 +1,0 @@
-a <- describeBy(x = df, group = df$Month, mat = T)

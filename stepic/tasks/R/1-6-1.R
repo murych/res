@@ -1,1 +1,0 @@
-boxplot(Ozone ~ Month, airquality)
