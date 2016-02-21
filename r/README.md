@@ -1,0 +1,1 @@
+[Microsoft R Open](https://mran.revolutionanalytics.com/download/) - дистрибутив R от Microsoft с плюшками для параллельных вычислений
