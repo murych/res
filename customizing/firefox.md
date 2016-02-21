@@ -2,7 +2,7 @@
 
 ## Полные темы
 -  [Simple White](https://addons.mozilla.org/en-US/firefox/addon/simplewhite/?src=myhomepage)
-- [mx4](https://addons.mozilla.org/en-US/firefox/addon/mx4/?src=api)
+-  [mx4](https://addons.mozilla.org/en-US/firefox/addon/mx4/?src=api)
 -  [FT Deep Dark](https://addons.mozilla.org/en-US/firefox/addon/ft-deepdark/)
 
 ## Используемые дополнения
