@@ -10,7 +10,9 @@
     - [Bitbucket Dark](https://userstyles.org/styles/105368/dark-bitbucket)
 
 - VK
-    - [VK Dark](https://userstyles.org/styles/56195/neo)
+    - [VK Neo](https://userstyles.org/styles/56195/neo)
+    - [VK Gray Blue](https://userstyles.org/styles/120347/gray-blue-vk)
+    - [VK Material Design](https://userstyles.org/styles/123713/vk-material-design)
 
 - HabraHabr
     - [Habrahabr Dark](https://userstyles.org/styles/101604/new-habr-night-mode)
