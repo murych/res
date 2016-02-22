@@ -6,21 +6,20 @@
 
 -------
 ## Online
- - [Список софта](web/webapps.md)
+ - [Онлайн-сервисы](web/webapps.md)
 
 ## Windows
- - [Список софта](windows/soft.md)
- - [Кастомизация интерфейса]()
+ - [Список программ](windows/soft.md)
+ - [Кастомизация Miranda NG](customizing/miranda-ng.md)
  - [Кастомизация интерфейса Firefox](customizing/firefox.md)
 
 ## Android
-- [Список софта](android/soft.md)
+- [Список программ](android/soft.md)
 
 ## Python
  - [Средства разработки](python/ides.md)
  - [Библиотеки](python/libraries.md)
- - [Обучающие ресурсы]()
- - [Github репозитории с материалами]()
+ - [Обучающие ресурсы](python/links.md)
 
 ## LaTeX
  - [Обзор редакторов для работы в LaTeX](latex/latex_editors.md) ([оригинальная статья](http://mydebianblog.blogspot.ru/2013/02/latex-editors-and-integrated-latex.html))

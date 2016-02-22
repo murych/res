@@ -6,6 +6,7 @@
 - [Canopy](https://store.enthought.com/downloads/#default) — рекомендуют в курсе MIT 6.00.1.x (Introduction to Computer Science and Programming Using Python);
 - [Rodeo](http://blog.yhat.com/posts/introducing-rodeo.html) — сырое IDE с упором на работу с данными, мимикрирует под RStudio, но проигрывает в стабильности вообще всему
 - [Python IDLE](https://www.python.org/downloads/) - стандартный "блокнотик", подходит разве что для проверки работоспособности небольших кусков кода
+- [CodeSkulptor](http://www.codeskulptor.org/) - браузерный редактор и интерпретатор для Python 2
 - [SciTE](http://www.scintilla.org/SciTE.html)
 - [Eric IDE](http://eric-ide.python-projects.org/)
 
