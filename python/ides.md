@@ -8,6 +8,7 @@
 - [Python IDLE](https://www.python.org/downloads/) - стандартный "блокнотик", подходит разве что для проверки работоспособности небольших кусков кода
 - [CodeSkulptor](http://www.codeskulptor.org/) - браузерный редактор и интерпретатор для Python 2
 - [IEP](http://www.iep-project.org/index.html)
+- [Thonny](http://thonny.cs.ut.ee/) - совсем простая IDE для изучения основ и наглядной работы с переменными
 - [SciTE](http://www.scintilla.org/SciTE.html)
 - [Eric IDE](http://eric-ide.python-projects.org/)
 
