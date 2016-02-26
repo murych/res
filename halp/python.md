@@ -2,20 +2,20 @@
 
 ------------
 
-- [Установка](#Установка)
-    - [IDE](#IDEs)
-    - [Готовые сборки](#сборки)
-    - [Дополнительные утилиты](#утилиты)
-- [Обучающие материалы](#Обучающие материалы)
-- [Задачки, упражнения](#Задачки, упражнения)
-- [Курсы](#курсы)
-- [Библиотеки](#библиотеки)
+- [Установка](#installing)
+    - [IDE](##ide)
+    - [Готовые сборки](##builds)
+    - [Дополнительные утилиты](##utilites)
+- [Обучающие материалы](#learning-materials)
+- [Задачки, упражнения](#tasks)
+- [Курсы](#courses)
+- [Библиотеки](#libs)
 
 ------------
 
 
-## Установка
-### IDEs
+## installing
+### ide
 - [Spyder IDE](https://github.com/spyder-ide) - легкий кроссплатформенный редактор, с упором на работу с данными, статистический анализ
 - [Jupyter](http://jupyter.org) – open source, interactive data science and scientific computing across over 40 programming languages. The Jupyter Notebook is a web application that allows you to create and share documents that contain live code, equations, visualizations and explanatory text.
 - [JetBrains PyCharm Community Edition](http://www.jetbrains.com/pycharm/) - большая навороченная IDE для серьезных проектов
@@ -29,17 +29,17 @@
 - [SciTE](http://www.scintilla.org/SciTE.html)
 - [Eric IDE](http://eric-ide.python-projects.org/)
 
-### Сборки
+### builds
 - [Python(x,y)](https://code.google.com/p/pythonxy/) - готовая сборка с библиотеками для научных вычислений и средами разработки, только windows
 - [Anaconda](https://store.continuum.io/cshop/anaconda/) - кроссплатформенная сборка с библиотеками для научных вычислений
 - [WinPython](https://sourceforge.net/projects/winpython/?source=directory)
 - [Portable Python](http://portablepython.com/) - мертвая сборка
 
 
-### Утилиты
+### utilites
 - [pip Win](https://sites.google.com/site/pydatalog/python/pip-for-windows) - pip для Windows с графическим интерфейсом
 
-## Обучающие материалы
+## learning materials
 
 ### Python
 - [Программирование и научные вычисления на языке Python](https://ru.wikiversity.org/wiki/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D0%B8_%D0%BD%D0%B0%D1%83%D1%87%D0%BD%D1%8B%D0%B5_%D0%B2%D1%8B%D1%87%D0%B8%D1%81%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BD%D0%B0_%D1%8F%D0%B7%D1%8B%D0%BA%D0%B5_Python)
@@ -60,18 +60,18 @@
 ### Kivy
 - [Kivy Documentation](https://kivy.org/docs/pdf/Kivy-latest.pdf) (pdf)
 
-## Задачки, упражнения
+## tasks
 
 - [CodingBat](http://codingbat.com/python)
 - [46 Simple Python Exercises](http://www.ling.gu.se/~lager/python_exercises.html)
 - [Олимпиадные задачки](http://acmp.ru/index.asp?main=tasks)
 - [PythonChallenge](http://www.pythonchallenge.com/)
 
-## Курсы
+## courses
 - [Stepic - Программирование на Python](https://stepic.org/course/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BD%D0%B0-Python-67/)
 - [Build Websites, Create Visualizations, and Analyze Data Using Python](http://www.hedaro.com/) - free email courses
 
-## Библиотеки
+## libs
 - pip  - установка пакетов
 - [setuptools](https://pypi.python.org/pypi/setuptools)
 - Cython - `C` код

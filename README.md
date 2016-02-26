@@ -16,11 +16,7 @@
 ## Android
 - [Список программ](android/soft.md)
 
-## Python
- - [Средства разработки](python/ides.md)
- - [Библиотеки](python/libraries.md)
- - [Обучающие ресурсы](python/links.md)
- - [Задачки](python/tasks.md)
+## [Python](halp/python.md)
 
 ## LaTeX
  - [Обзор редакторов для работы в LaTeX](latex/latex_editors.md) ([оригинальная статья](http://mydebianblog.blogspot.ru/2013/02/latex-editors-and-integrated-latex.html))
