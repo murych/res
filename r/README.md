@@ -7,3 +7,6 @@
 ## IDE
 - [RStudio]()
 - [Sublime Text]()
+    - [RBox]()
+
+## Библиотеки
