@@ -10,7 +10,6 @@
 
 ## Windows
  - [Список программ](windows/soft.md)
- - [Кастомизация Miranda NG](customizing/miranda-ng.md)
  - [Кастомизация интерфейса Firefox](customizing/firefox.md)
 
 ## Android
