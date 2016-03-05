@@ -108,6 +108,7 @@
 
 ### Системы контроля версий
 -  [GitHub for Windows](https://windows.github.com/) - клиент для управления репозиториями на `github`
+-  [GitExtensions](https://sourceforge.net/projects/gitextensions/) - такая-то годнота
 -  [SourceTree](http://www.sourcetreeapp.com/?utm_source=internal&utm_medium=link&utm_campaign=clone_repo_win), [portable](https://answers.atlassian.com/questions/176912/) - управление репозиториями `git`, `mercury`
 ### Удаленный доступ
 -  [putty](http://www.putty.org/), [portable](http://portableapps.com/apps/internet/putty_portable) - `SSH`-клиент
