@@ -18,5 +18,3 @@
 ## [Python](halp/python.md)
 ## [R](r/README.md)
 
-## LaTeX
- - [Обзор редакторов для работы в LaTeX](latex/latex_editors.md) ([оригинальная статья](http://mydebianblog.blogspot.ru/2013/02/latex-editors-and-integrated-latex.html))
